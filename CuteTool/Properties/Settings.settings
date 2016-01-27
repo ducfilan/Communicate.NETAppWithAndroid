@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Dota2Map.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="KeyPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Duc\Desktop\vnre_fixed.txt</Value>
+    </Setting>
+    <Setting Name="AnswerPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Duc\Desktop\anwer.txt</Value>
+    </Setting>
+    <Setting Name="IpAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.137.5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
